@@ -1,6 +1,6 @@
 ### 👋 Hey there, I'm Zara!
 
-Currently I'm focusing on my lifelong obsession with design by transferring my skills to UI design! You can probably find me on Figma most of the day for that reason. 👀 🖌️
+Currently I'm focusing on my lifelong obsession with design by transferring my skills to UI design! You can probably find me mostly on [Figma](https://www.figma.com/file/gssi4oeT1G4zOpMhXrgap4/Portfolio?node-id=2%3A649) for that reason. 👀 🖌️
 
 - 🎨 I'm working on getting my **personal website** setup (I need my brain to agree on a design first)
 - 👩🏽‍💻 I'm learning about **React.js** to utilize on a project I'm working on with a team
