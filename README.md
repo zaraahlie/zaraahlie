@@ -9,6 +9,6 @@ Currently, I'm focusing on my lifelong obsession by practicing UI design! You ca
 
 ***
 
-Outside of projects and design, I'm an average second-year computer science trying to get an internship for summer 2022 ☀️ I just so happen to also have an obsession with watermelon and K-Dramas. 🍉 
+Outside of projects and design, I'm an average second-year computer science student trying to get an internship for summer 2022 ☀️ I just so happen to also have an obsession with watermelon and K-Dramas. 🍉 
 
 I'm always down to connect, so reach out on [LinkedIn](https://www.linkedin.com/in/zaraahlie/)! 🤠
