@@ -7,7 +7,7 @@ Currently I'm focusing on my lifelong obsession with design transferring my skil
 - I'm always looking to volunteer my skills at non-profits 
 - Ask me about my projects, including my readability analyzer, Razara Movie Database, and Battlehauz
 
-- Outside of my team projects and design, I'm an average second-year computer science trying to get an internship for summer 2022.
+Outside of my team projects and design, I'm an average second-year computer science trying to get an internship for summer 2022.
 
 <!--
 **zaraahlie/zaraahlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
