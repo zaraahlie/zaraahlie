@@ -5,7 +5,7 @@ Currently, I'm focusing on my lifelong obsession by practicing UI design! You ca
 - 🎨 I'm working on getting my **personal website** setup (I need my brain to agree on a design first)
 - 👩🏽‍💻 I'm learning about **React.js** to utilize on a project I'm working on with a team
 - 🔎 I'm always looking to work on projects for **non-profits**
-- 💬 Ask me about **my projects**, including my readability analyzer, Razara Movie Database, and Battlehauz
+- 💬 Ask me about my **readability analyzer, Razara Movie Database, and Battlehauz**
 
 ***
 
