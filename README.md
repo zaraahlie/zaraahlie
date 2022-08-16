@@ -9,6 +9,6 @@ Currently, I'm focusing on my lifelong obsession by practicing UI design! You ca
 
 ***
 
-Outside of projects and design, I'm an average second-year computer science student trying to get an internship for Summer 2022. I just so happen to also have an obsession with watermelon and K-Dramas. 🍉 
+Outside of projects and design, I'm a third-year computer science student currently on co-op as a PL/SQL developer at Employment Social Development Canada. I just so happen to also have an obsession with watermelon and Marvel movies. 🍉 
 
 I'm always down to connect, so reach out on [LinkedIn](https://www.linkedin.com/in/zaraahlie/)! 🤠
